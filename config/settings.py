@@ -1,0 +1,11 @@
+WORK_TIME_MIN = 25
+SHORT_BREAK_MIN = 5
+LONG_BREAK_MIN = 15
+SESSIONS_BEFORE_LONG_BREAK = 4
+
+DB_NAME = 'pomodoro_history.db'
+
+# Theme Colors
+COLOR_BG = "#1e1e1e"
+COLOR_TEXT = "#d4d4d4"
+COLOR_ACCENT = "#64b5f6"

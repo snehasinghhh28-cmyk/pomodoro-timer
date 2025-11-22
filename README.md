@@ -1,2 +1,21 @@
-# pomodoro-timer
- Pomodoro timer is a time management tool used in pomodoro technique , which involve working in focusing in 25 minute interval, called "Pomodoros", followed by short 5 minute break and a longer break of 15 minute. It timer helps improve focus, reduce procrastination, and manage tasks more effectively . 
+# FocusFlow Pro 🍅
+
+A modular, dark-themed productivity timer built with Python, Streamlit, and SQLite.
+
+## Features
+- **Smart Cycles:** Automatically handles Work, Short Break, and Long Break phases.
+- **Eye-Friendly:** Deep dark grey theme (#1e1e1e) to reduce eye strain.
+- **Analytics:** Built-in dashboard using Pandas and Matplotlib.
+- **Data Persistence:** Stores all sessions in a local SQLite database.
+
+## Technologies Used
+- **Frontend:** Streamlit (Custom CSS)
+- **Backend:** Python
+- **Database:** SQLite3
+- **Data Analysis:** Pandas, Matplotlib
+
+## Installation
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
